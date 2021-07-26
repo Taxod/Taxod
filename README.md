@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 [![Taxod's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taxod&show_icons=true))](https://github.com/anuraghazra/github-readme-stats)
 </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taxod)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taxodhide=roff,Roff)](https://github.com/anuraghazra/github-readme-stats)
